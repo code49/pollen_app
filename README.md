@@ -3,7 +3,7 @@
 ![Pollen Logo Here - "Bee the Change"](./read_me_resources/logo.png)
 
 
-*An app to empower and elevate student-led clubs, built using a [Flutter](https://www.flutter.dev) frontend and a [Python 3.8](https://www.python.org) backend.*
+*An app to empower and elevate student-led clubs, built using a [React Native](https://reactnative.dev/) frontend and a [Python 3.8](https://www.python.org) (via [Django](https://www.djangoproject.com/)) backend.*
 
 ---
 
